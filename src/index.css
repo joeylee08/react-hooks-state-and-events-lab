@@ -93,6 +93,10 @@ header button {
   background: var(--background--light);
 }
 
+.in-cart {
+  text-decoration: line-through;
+}
+
 .Items li.in-cart span {
   text-decoration: line-through;
 }
